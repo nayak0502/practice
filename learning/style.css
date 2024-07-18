@@ -1,0 +1,55 @@
+.nav {
+    display: flex;
+    justify-content: space-between; 
+    margin-left:200px; 
+    margin-right: 100px; 
+    padding: 20px;
+}
+
+.navItems {
+    color:#333; 
+    font: weight 400px; 
+    display: flex; 
+    justify-content:space-between; 
+    gap: 50px;
+    align-items: middle;
+    padding-right: 60px;
+}
+
+.main{
+    margin-left: 350px; 
+    margin-top: 60px;
+}
+
+.invest {
+    margin-top: 75px; 
+    margin-left: 225px; 
+    font-size:xxx-large;
+}
+
+.platform {
+    font-size: x-large; 
+    margin-left:65px
+}
+
+.signupDiv {
+    margin-left: 325px; 
+    margin-top: 50px;
+    background-color: #387ed1; 
+    text-align:center; 
+    font-size: 1.2rem; 
+    border: 1px solid rgba(0, 0, 0, 0) !important; 
+    padding: 10px 30px;
+    color: white;
+    border-radius:3px;
+    width: 100px;
+}
+
+.signupDiv:hover {
+    background-color: #555;
+}
+
+.signup {
+    text-decoration: none; 
+    color:#fff
+}
